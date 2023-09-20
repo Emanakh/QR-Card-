@@ -1,3 +1,3 @@
 # QR-Code-
 from 'frontendmentor' site.
-using HTML, different CSS selectors, flexbox.
+responsive QR webpage using HTML, different CSS selectors, flexbox.
